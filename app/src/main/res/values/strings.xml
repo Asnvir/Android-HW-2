@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">APP-2</string>
+    <string name="textview">TextView</string>
+    <string name="Name">Name</string>
+    <string name="Salary">Salary</string>
+    <string name="Calculate">Calculate</string>
+    <string name="InputName">InputName</string>
+</resources>
